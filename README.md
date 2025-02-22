@@ -2,7 +2,7 @@
 
 **Disclaimer:** This method is against Google Colab's policies. Use it at your own discretion.  
 
-### 1. Torrent to Drive (`torrent_to_drive.ipynb`)  
+### 1. Torrent to Drive (`Torrent_to_drive.ipynb`)  
 This notebook allows you to download torrent files directly to your Google Drive.  
 
 #### Usage:  
