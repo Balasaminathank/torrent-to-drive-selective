@@ -9,7 +9,7 @@ You can use this torrent_to_drive.ipynb to convert torrent files to drive.
 You can use direct_link.ipynb to convert direct download links to drive
 
  Same instructions as above and 
- # !wget -P /content/drive/My\ Drive/ "paste your direct link here"
+  !wget -P /content/drive/My\ Drive/ "paste your direct link here"
 
 To get the direct link for any files
 for desktop just add to download in your firefox/chrome browser then right click copy link
