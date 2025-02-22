@@ -2,9 +2,6 @@
 
 **Disclaimer:** This method is against Google Colab's policies. Use it at your own discretion.  
 
-## Overview  
-This repository provides Jupyter notebooks to transfer files from torrents or direct download links to Google Drive.  
-
 ### 1. Torrent to Drive (`torrent_to_drive.ipynb`)  
 This notebook allows you to download torrent files directly to your Google Drive.  
 
