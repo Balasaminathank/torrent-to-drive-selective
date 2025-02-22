@@ -7,8 +7,9 @@ This notebook allows you to download torrent files directly to your Google Drive
 
 #### Usage:  
 1. Download the `torrent_to_drive.ipynb` file and upload it to Google Colab.  
-2. Run all cells sequentially.  
-3. Your files will be saved to your Google Drive.  
+2. Run all cells sequentially.
+3. If you find any error in first cell re-run the cell again. 
+4. Your files will be saved to your Google Drive.  
 
 **Note:** It is recommended not to use your personal Google Drive account for this.  
 
